@@ -1,0 +1,99 @@
+
+/* header */
+#logo-header{
+    width: 80%;
+    margin-left: 150px;
+    height: 90px;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-color: #4ea0ff;
+}
+
+#word-header{
+    height: 40px;
+    padding-top: 45px;
+    padding-left: 10px;
+}   
+
+
+
+/* main */
+#main{
+    width:80%;
+    margin-left: 150px;
+    ;
+}
+
+
+
+/* title and subtitle */
+#title{
+    font-size:50px;
+    font-weight: 900;
+}
+
+.grey-word, .grey-word2{
+    color: grey;
+}
+
+#blue-word{
+    color: #4ea0ff;
+    font-weight: 900;
+}
+
+.grey-word2{
+    font-size: 10px;
+}
+
+
+/* prime due immagini */
+#img1{
+    height: 400px;
+}
+
+#img2{
+    height: 400px;
+}
+
+
+/* highlighted text */
+.highlight-text{
+    background-color: yellow;
+}
+
+
+/* u-list */
+#u-list{
+    margin: 5px;
+    padding: 10px;
+}
+
+
+/* table */
+#thead{
+    color: white;
+    background-color: #4ea0ff;
+}
+
+.tbody-blue{
+    background-color: lightblue;
+}
+
+
+/* final images */
+#monitor{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);    
+}
+
+#graph{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+}
+.white-word{
+    color: white;
+    font-size: 25px;
+    margin-left: 10px;
+}
